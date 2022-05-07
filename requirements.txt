@@ -1,4 +1,2 @@
-# mat-kos-django/requirements.txt
-# https://github.com/SorontarX10/mat-kos-django/requirements.txt
-
-Django==4.04
+# requirements.txt
+Django==4.0.4
