@@ -1,5 +1,5 @@
 """
-WSGI config for vercel_app project.
+WSGI config for mat_kos_django project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'vercel_app.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'mat_kos_django.settings')
 
 application = get_wsgi_application()
